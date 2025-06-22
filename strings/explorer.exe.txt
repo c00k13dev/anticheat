@@ -1,0 +1,28 @@
+ExecutedJava:::javaw.exe" -jar
+ExecutedCScript:::cscript
+ExecutedDotVBS:::.vbs
+StartProcessJava:::Start-Process -FilePath "java"
+JavaStart:::start "" /b java -jar
+Extra disk A (Explorer):::file:///A
+Extra disk B (Explorer):::file:///B
+Extra disk F (Explorer):::file:///F
+Extra disk G (Explorer):::file:///G
+Extra disk H (Explorer):::file:///H
+Extra disk I (Explorer):::file:///I
+Extra disk J (Explorer):::file:///J
+Extra disk K (Explorer):::file:///K
+Extra disk L (Explorer):::file:///L
+Extra disk M (Explorer):::file:///M
+Extra disk N (Explorer):::file:///N
+Extra disk Q (Explorer):::file:///Q
+Extra disk p (Explorer):::file:///P
+Extra disk O (Explorer):::file:///O
+Extra disk R (Explorer):::file:///R
+Extra disk S (Explorer):::file:///S
+Extra disk T (Explorer):::file:///T
+Extra disk U (Explorer):::file:///U
+Extra disk v (Explorer):::file:///V
+Extra disk W (Explorer):::file:///W
+Extra disk X (Explorer):::file:///X
+Extra disk Y (Explorer):::file:///Y
+Extra disk Z (Explorer):::file:///Z
